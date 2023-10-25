@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "Project2">
+<test name = "AutomationExercise">
+<classes>
+<class name = "testNGframework.RegisterUser"/>
+<class name = "testNGframework.PositiveLogindetails"/>
+<class name = "testNGframework.Add2CfromRecommended"/>
+<class name = "testNGframework.AddProductscart"/>
+<class name = "testNGframework.Addressdetails_CP"/>
+<class name = "testNGframework.ContactUS"/>
+<class name = "testNGframework.LogoutUser"/>
+<class name = "testNGframework.NegativeLogindetails"/>
+<class name = "testNGframework.Placeorder_LBC"/>
+<class name = "testNGframework.Placeorder_RBC"/>
+<class name = "testNGframework.Placeorder_RWC"/>
+<class name = "testNGframework.ProductDetails"/>
+<class name = "testNGframework.ProductQuantity"/>
+<class name = "testNGframework.RegexistMail"/>
+<class name = "testNGframework.RemoveproductsCart"/>
+<class name = "testNGframework.ReviewaddProduct"/>
+<class name = "testNGframework.Searchproduct_verifycart_afterlogin"/>
+<class name = "testNGframework.SearchProduct"/>
+<class name = "testNGframework.SubCartpage"/>
+<class name = "testNGframework.SubHomepage"/>
+<class name = "testNGframework.TCpage"/>
+<class name = "testNGframework.View_cartbrand"/>
+<class name = "testNGframework.Viewcatproduct"/>
+
+</classes>
+</test>
+</suite>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
